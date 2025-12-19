@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "R²",
+		"description": "aoe 的个人博客。",
+		"username": "aoe"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -30,41 +30,49 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "31274cbcbe0bc3ac",
+			"url": "/images/art/31274cbcbe0bc3ac.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "31274cbcbe0bc3ac",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "4c36cf5063a33401",
+			"url": "/images/background/4c36cf5063a33401.JPG"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "4c36cf5063a33401",
 	"socialButtons": [
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/cnpay",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "955555@gmail.com",
 			"label": "",
-			"order": 1
+			"order": 2
+		},
+		{
+			"id": "button-1766107204921",
+			"type": "xiaohongshu",
+			"value": "https://xhslink.com/m/5QRCQvgfhnN",
+			"label": "",
+			"order": 3
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
