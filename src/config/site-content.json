@@ -86,5 +86,9 @@
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 3,
-	"hatFlipped": false
+	"hatFlipped": false,
+	"beian": {
+		"text": "",
+		"link": ""
+	}
 }

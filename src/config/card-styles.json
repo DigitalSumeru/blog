@@ -1,52 +1,52 @@
 {
 	"artCard": {
-		"width": 270,
-		"height": 232,
+		"width": 360,
+		"height": 200,
 		"order": 3,
-		"offsetX": -490,
-		"offsetY": -67,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"hiCard": {
-		"width": 353,
-		"height": 284,
+		"width": 360,
+		"height": 288,
 		"order": 1,
-		"offsetX": -160,
-		"offsetY": -490,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"clockCard": {
-		"width": 205,
-		"height": 76,
+		"width": 232,
+		"height": 132,
 		"offset": 92,
 		"order": 4,
-		"offsetX": 262,
-		"offsetY": -491,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 231,
-		"height": 306,
+		"width": 350,
+		"height": 286,
 		"order": 5,
-		"offsetX": 260,
-		"offsetY": -406,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"musicCard": {
-		"width": 239,
-		"height": 65,
+		"width": 293,
+		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 274,
-		"offsetY": -77,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"socialButtons": {
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -140,
-		"offsetY": -192,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"shareCard": {
@@ -58,27 +58,27 @@
 		"enabled": true
 	},
 	"articleCard": {
-		"width": 454,
-		"height": 400,
+		"width": 266,
+		"height": 160,
 		"order": 8,
-		"offsetX": -200,
-		"offsetY": -131,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"writeButtons": {
-		"height": 50,
-		"width": 164,
+		"height": 42,
+		"width": 180,
 		"order": 8,
-		"offsetX": -407,
-		"offsetY": -491,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"navCard": {
-		"width": 238,
-		"height": 350,
+		"width": 280,
+		"height": 434,
 		"order": 2,
-		"offsetX": -476,
-		"offsetY": -427,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"likePosition": {
@@ -87,12 +87,20 @@
 		"order": 8,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": false
+		"enabled": true
 	},
 	"hatCard": {
-		"width": 120,
-		"height": 120,
+		"width": 99,
+		"height": 105,
 		"order": 10,
+		"offsetX": -48,
+		"offsetY": -168,
+		"enabled": true
+	},
+	"beianCard": {
+		"width": 200,
+		"height": 60,
+		"order": 11,
 		"offsetX": null,
 		"offsetY": null,
 		"enabled": false
