@@ -5,24 +5,24 @@
 		"username": "aoe"
 	},
 	"theme": {
-		"colorBrand": "#3E9EA8",
-		"colorPrimary": "#4E3F42",
+		"colorBrand": "#924C72",
+		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
-		"colorBrandSecondary": "#FCC841",
+		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#0a051f",
 		"colorBorder": "#8a8a8a5e",
 		"colorCard": "#ffffff0e",
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#54F7C3",
-		"#B63331",
-		"#A0689D",
-		"#C4C2C9",
-		"#55953D",
-		"#B47637",
-		"#A85CA2",
-		"#B01E34"
+		"#5EFDED",
+		"#5AFDDB",
+		"#71FD78",
+		"#0A7521",
+		"#0BAA2E",
+		"#322C2E",
+		"#E7CA6D",
+		"#F1FA52"
 	],
 	"artImages": [
 		{
@@ -74,9 +74,9 @@
 		},
 		{
 			"id": "button-1766382871938",
-			"type": "tg",
-			"value": "https://t.me/UCQQQ",
-			"label": "",
+			"type": "link",
+			"value": "https://text.pm",
+			"label": "Domain",
 			"order": 4
 		}
 	],
