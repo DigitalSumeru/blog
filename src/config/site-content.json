@@ -71,6 +71,13 @@
 			"value": "https://xhslink.com/m/5QRCQvgfhnN",
 			"label": "",
 			"order": 3
+		},
+		{
+			"id": "button-1766382871938",
+			"type": "link",
+			"value": "https://text.pm",
+			"label": "Domain",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
