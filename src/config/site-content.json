@@ -49,31 +49,31 @@
 	"currentBackgroundImageId": "4c36cf5063a33401",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/cnpay",
-			"label": "Github",
-			"order": 1
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "955555@gmail.com",
 			"label": "",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "button-1766382871938",
 			"type": "tg",
 			"value": "https://t.me/UCQQQ",
 			"label": "",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "button-1766562425714",
 			"type": "xiaohongshu",
 			"value": "https://xhslink.com/m/5QRCQvgfhnN",
 			"label": "",
+			"order": 3
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/cnpay",
+			"label": "Github",
 			"order": 4
 		}
 	],
