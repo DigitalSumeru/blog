@@ -5,7 +5,7 @@
 		"username": "aoe"
 	},
 	"theme": {
-		"colorBrand": "#53B296",
+		"colorBrand": "#A11EBB",
 		"colorPrimary": "#194242e0",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
@@ -15,11 +15,12 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#77FA88",
-		"#082B65",
-		"#31D2A3",
-		"#A4D435",
-		"#3F5621"
+		"#686500",
+		"#73BFCD",
+		"#729E8A",
+		"#633831",
+		"#A91956",
+		"#9109AA"
 	],
 	"artImages": [
 		{

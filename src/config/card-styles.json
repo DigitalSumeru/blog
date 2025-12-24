@@ -8,11 +8,11 @@
 		"enabled": false
 	},
 	"hiCard": {
-		"width": 252,
-		"height": 297,
+		"width": 254,
+		"height": 298,
 		"order": 1,
-		"offsetX": -494,
-		"offsetY": -199,
+		"offsetX": -489,
+		"offsetY": -206,
 		"enabled": true
 	},
 	"clockCard": {
@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -149,
-		"offsetY": 215,
+		"offsetX": -161,
+		"offsetY": 227,
 		"enabled": true
 	},
 	"shareCard": {
@@ -58,26 +58,26 @@
 		"enabled": false
 	},
 	"articleCard": {
-		"width": 436,
-		"height": 472,
+		"width": 383,
+		"height": 489,
 		"order": 8,
-		"offsetX": -213,
-		"offsetY": -277,
+		"offsetX": -193,
+		"offsetY": -286,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": -425,
-		"offsetY": -261,
+		"offsetX": -421,
+		"offsetY": -274,
 		"enabled": true
 	},
 	"navCard": {
 		"width": 211,
 		"height": 458,
 		"order": 2,
-		"offsetX": 251,
+		"offsetX": 231,
 		"offsetY": -272,
 		"enabled": true
 	},
