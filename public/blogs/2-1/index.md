@@ -200,9 +200,9 @@ mdadm --create /dev/md5 --level=1 --raid-devices=1 --force /dev/nvme0n1p3
 mkfs.btrfs -f /dev/md5
 ```
 
-　　![建立单盘](https://cdn.sa.net/2024/06/06/qwJQtuoLYZ7bVR8.png)[https://post.smzdm.com/p/axzz4n5d/pic_9/](https://post.smzdm.com/p/axzz4n5d/pic_9/)建立单盘
+　　![建立单盘](https://cdn.sa.net/2024/06/06/qwJQtuoLYZ7bVR8.png)建立单盘
 
-　　![设定btrfs系统](https://cdn.sa.net/2024/06/06/SoGfU6MvxW8gyYR.png)[https://post.smzdm.com/p/axzz4n5d/pic_10/](https://post.smzdm.com/p/axzz4n5d/pic_10/)设定btrfs系统
+　　![设定btrfs系统](https://cdn.sa.net/2024/06/06/SoGfU6MvxW8gyYR.png)设定btrfs系统
 
 　　(12)-2
 
@@ -222,7 +222,7 @@ mdadm --create /dev/md5 --level=0 --raid-devices=2 --force /dev/nvme0n1p3 /dev/n
 mdadm --create /dev/md5 --level=1 --raid-devices=2 --force /dev/nvme0n1p3 /dev/nvme1n1p3
 ```
 
-　　![raid1](https://cdn.sa.net/2024/06/06/OFQxg5oHCidpBa8.png)[https://post.smzdm.com/p/axzz4n5d/pic_11/](https://post.smzdm.com/p/axzz4n5d/pic_11/)raid1
+　　![raid1](https://cdn.sa.net/2024/06/06/OFQxg5oHCidpBa8.png)raid1
 
 ```
 reboot
@@ -234,9 +234,9 @@ reboot
 
 　　重启进入群晖后，系统会提示可以恢复存储池，进入存储管理器，按系统提示点击恢复即可使用。
 
-　　![btrfs命令后续](https://cdn.sa.net/2024/06/06/l8OBrqiPgzLp1VG.png)[https://post.smzdm.com/p/axzz4n5d/pic_12/](https://post.smzdm.com/p/axzz4n5d/pic_12/)btrfs命令后续
+　　![btrfs命令后续](https://cdn.sa.net/2024/06/06/l8OBrqiPgzLp1VG.png)btrfs命令后续
 
-　　![raid1后续](https://cdn.sa.net/2024/06/06/4bwSuhIfBvimL2c.png)[https://post.smzdm.com/p/axzz4n5d/pic_13/](https://post.smzdm.com/p/axzz4n5d/pic_13/)raid1后续
+　　![raid1后续](https://cdn.sa.net/2024/06/06/4bwSuhIfBvimL2c.png)raid1后续
 
 　　目前只有创建raid0阵列时会遇到具体修复办法是，进入群晖套件中心，打开SAN Manager，删除LUN，然后即可正常创建存储池。
 
