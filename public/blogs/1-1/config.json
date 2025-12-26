@@ -1,11 +1,9 @@
 {
   "title": "Hello World，我也有个博客！",
-  "tags": [
-    "日常"
-  ],
+  "tags": [],
   "date": "2025-12-26T15:55",
   "summary": "Hello World",
   "cover": "/blogs/1-1/4c36cf5063a33401.jpg",
   "hidden": false,
-  "category": ""
+  "category": "📝 日常记录 (Daily Log)"
 }
