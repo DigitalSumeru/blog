@@ -1,5 +1,5 @@
 {
 	"title": "关于本站",
 	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"content": "关于本站 / About This Blog\n\n网站内容：\n\n📁 教程收集 (Tutorials)：整理互联网上各类实用的技术教程、软件配置指南。这些是给自己看的。\n\n📝 日常记录 (Daily Log)：分享生活点滴、个人思考以及非技术类的杂谈。\n\n💼 工作备忘 (Work Memos)：记录工作中的经验总结、待办事项以及遇到的问题解决方案。\n\n更新频率：\n\n随缘更新。"
 }
