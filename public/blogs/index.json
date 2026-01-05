@@ -1,39 +1,478 @@
 [
   {
-    "slug": "2-1",
-    "title": "群晖关闭硬盘验证&开启m2",
-    "tags": [],
-    "date": "2025-12-26T16:55",
-    "summary": "群晖笔记-关闭硬盘验证&开启m2",
+    "slug": "driving-tour",
+    "title": "年底的自驾游",
+    "tags": [
+      "旅游"
+    ],
+    "date": "2026-01-05T11:50",
+    "summary": "琐碎的自驾游回忆",
+    "cover": "https://www.yysuni.com/images/pictures/474f9e7a4c63084a.webp",
     "hidden": false,
-    "category": "📁 教程收集 (Tutorials)"
+    "category": ""
   },
   {
-    "slug": "3-2",
-    "title": "VBA宏",
-    "tags": [],
-    "date": "2025-12-26T16:17",
-    "summary": "非同业",
+    "slug": "fix-screen",
+    "title": "解决电脑屏幕帧数问题",
+    "tags": [
+      "维修",
+      "日常"
+    ],
+    "date": "2025-12-18T10:32",
+    "summary": "记录电脑屏幕帧数不够问题",
+    "cover": "/blogs/fix-screen/b2e72412daec0169.webp",
     "hidden": false,
-    "category": "💼 工作备忘 (Work Memos)"
+    "category": ""
   },
   {
-    "slug": "3-1",
-    "title": "重复项添加_1、_2",
-    "tags": [],
-    "date": "2025-12-26T16:07",
-    "summary": "重复项添加_1、_2",
-    "hidden": false,
-    "category": "💼 工作备忘 (Work Memos)"
+    "slug": "texture-format",
+    "title": "图片格式 —— 关于材质的大小研究",
+    "tags": [
+      "图片压缩",
+      "webp"
+    ],
+    "date": "2025-11-25",
+    "summary": "压缩图片的讨论",
+    "cover": "/blogs/texture-format/2c7d9391c47a1876.jpg",
+    "category": "总结"
   },
   {
-    "slug": "1-1",
-    "title": "Hello World，我也有个博客！",
-    "tags": [],
-    "date": "2025-12-26T15:55",
-    "summary": "Hello World",
-    "cover": "/blogs/1-1/4c36cf5063a33401.jpg",
+    "slug": "kuangyeshidai",
+    "title": "狂野时代",
+    "tags": [
+      "影评",
+      "日常"
+    ],
+    "date": "2025-11-22",
+    "summary": "观《狂野时代》后感",
+    "cover": "/blogs/kuangyeshidai/e260bea5dbfda5b7.jpg",
+    "hidden": false
+  },
+  {
+    "slug": "liquid-grass",
+    "title": "好玩的液态玻璃",
+    "tags": [
+      "液态玻璃",
+      "ios"
+    ],
+    "date": "2025-11-21",
+    "summary": "很简单就能实现这个液态玻璃效果，真棒",
+    "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png",
+    "category": "代码实现"
+  },
+  {
+    "slug": "readme",
+    "title": "2025 Blog 的使用引导",
+    "tags": [
+      "开源"
+    ],
+    "date": "2025-11-16T08:00",
+    "summary": "2025-blog-public 项目的使用说明以及注意事项",
+    "cover": "/blogs/readme/9532a65cc32ca5eb.png",
     "hidden": false,
-    "category": "📝 日常记录 (Daily Log)"
+    "category": ""
+  },
+  {
+    "slug": "game-again",
+    "title": "又折腾一次游戏的记录心得",
+    "tags": [
+      "笔记",
+      "心得",
+      "游戏",
+      "学习"
+    ],
+    "date": "2025-11-14",
+    "summary": "游戏难，又总会悸动",
+    "cover": "/blogs/game-again/4425a1ea5cd869ec.jpg",
+    "category": "总结"
+  },
+  {
+    "slug": "rewrite-blog-website",
+    "title": "我想重构Blog网站",
+    "tags": [
+      "重构blog网站"
+    ],
+    "date": "2025-11-11",
+    "summary": "这是重构blog网站的第一篇blog，终于把上个网站的blog 内容移动过来了。当然还有其它内容还没弄。",
+    "cover": "/blogs/rewrite-blog-website/7ec6838f38c9161e.png",
+    "category": "总结"
+  },
+  {
+    "slug": "retro-grid",
+    "title": "网格特效",
+    "tags": [
+      "开发",
+      "threejs"
+    ],
+    "date": "2025-10-14",
+    "summary": "网站设计中，网格实现的研究",
+    "cover": "/blogs/retro-grid/5f88408967c22d252c82ae65d1479d7dd9514921123fd4aeb372dd219037f708.png",
+    "category": "代码实现"
+  },
+  {
+    "slug": "first-ios-app",
+    "title": "第一款 ios App 发布",
+    "tags": [
+      "ios",
+      "开发"
+    ],
+    "date": "2025-08-12",
+    "summary": "使用 RN 制作第一款 ios app 并成功上线 App Store",
+    "cover": "/blogs/first-ios-app/45819dee9c379ae84728269f7ee7a7684862984969eb43987a170586511be3c3.png"
+  },
+  {
+    "slug": "pixel-motion",
+    "title": "像素画工具发布",
+    "tags": [
+      "像素画",
+      "阮一峰",
+      "PixelMotion"
+    ],
+    "date": "2025-08-08",
+    "summary": "一个支持模块化的像素画工具",
+    "cover": "/blogs/pixel-motion/391a0feb7dac7aaf82dc5df3ce11a1dfefe5d4ce241c68799da608073f4cc89d.png"
+  },
+  {
+    "slug": "globe",
+    "title": "地球效果实现",
+    "tags": [
+      "threejs",
+      "earth",
+      "preview"
+    ],
+    "date": "2025-07-23",
+    "summary": "一个简单的地球效果演示",
+    "cover": "/blogs/globe/b4abb83bdf919afd34a7934f9623e0ac7492151377c84f59005458b13b017fab.png"
+  },
+  {
+    "slug": "video-split",
+    "title": "WebAV 剪切视频",
+    "tags": [
+      "剪视频",
+      "尝试"
+    ],
+    "date": "2025-06-26",
+    "summary": "Web 中剪视频有没有搞头？",
+    "cover": "/blogs/video-split/9d57e3921273d09feafe27e154fdae260d32734b14d7c043d880caf39defd35f.jpg"
+  },
+  {
+    "slug": "google-translate-error",
+    "title": "谷歌翻译导致的 React 页面崩溃",
+    "tags": [
+      "GoogleTranslate",
+      "react",
+      "bug"
+    ],
+    "date": "2025-06-16",
+    "summary": "数据监控下的奇怪报错",
+    "cover": "/blogs/google-translate-error/e0f9d6f869c3d53fd4994f900b485aa46bb025ac0fe4ab299ba333ee550ddce3.png"
+  },
+  {
+    "slug": "object-vs-map",
+    "title": "记 Object vs Map 性能表现",
+    "tags": [
+      "测试",
+      "性能"
+    ],
+    "date": "2025-06-03",
+    "summary": "Object 使用大量属性时，使用 Map 会不会更好",
+    "cover": "/blogs/object-vs-map/e89a0eee349564c46a1422508b93431803c5fe749f130bfa5fed8e9e80457aae.jpg"
+  },
+  {
+    "slug": "array-vs-object",
+    "title": "记 Array vs Object 性能表现",
+    "tags": [
+      "测试",
+      "性能"
+    ],
+    "date": "2025-05-30",
+    "summary": "当出现使用大量数据集的时候，使用 Array 还是 Object.",
+    "cover": "/blogs/array-vs-object/9256010842777ef31da9ef0400426955b6442c492ba360e92e477bcfcf194222.png"
+  },
+  {
+    "slug": "solidity-more",
+    "title": "Solidity 深入研究",
+    "tags": [
+      "solidity",
+      "深入"
+    ],
+    "date": "2025-05-21",
+    "summary": "研究一些更深入的 solidity 知识",
+    "cover": "/blogs/solidity-more/59bc0cb2dc4b30f51249684c33c8425b3f4faefe5a65f8f1debb3a4f1a76765d.jpg"
+  },
+  {
+    "slug": "first-game",
+    "title": "学游戏",
+    "tags": [
+      "游戏",
+      "godot"
+    ],
+    "date": "2025-04-12",
+    "summary": "用 Godot 学做的第一个游戏",
+    "cover": "/blogs/first-game/9b871e63d2b65b74.png"
+  },
+  {
+    "slug": "image-transform",
+    "title": "Image 展示方案",
+    "tags": [
+      "react",
+      "组件"
+    ],
+    "date": "2025-03-30",
+    "summary": "页面图像点击展示，使其顺化过渡",
+    "cover": "/blogs/image-transform/b4a55dee9304546b.jpg"
+  },
+  {
+    "slug": "solidity-note",
+    "title": "Solidity 笔记",
+    "tags": [
+      "solidity",
+      "hardhat",
+      "笔记"
+    ],
+    "date": "2025-03-27",
+    "summary": "快速使用 Hardhat 部署合约，校验合约",
+    "cover": "/blogs/solidity-note/59bc0cb2dc4b30f5.jpg"
+  },
+  {
+    "slug": "sort-usage",
+    "title": "Sort 的分层使用",
+    "tags": [
+      "测试",
+      "笔记"
+    ],
+    "date": "2025-03-17",
+    "summary": "sort 在用来分类的时候，会有点反直觉。",
+    "cover": "/blogs/sort-usage/85dbad55c88ade50.jpg"
+  },
+  {
+    "slug": "git-variables",
+    "title": "项目植入 Git 变量",
+    "tags": [
+      "git",
+      "尝试"
+    ],
+    "date": "2025-03-10",
+    "summary": "Git 变量结合在项目中，或许有奇特火花。",
+    "cover": "/blogs/git-variables/6166433682180769.png"
+  },
+  {
+    "slug": "path-motion-methods",
+    "title": "Path Motion 的不同方式",
+    "tags": [
+      "测试",
+      "svg",
+      "path"
+    ],
+    "date": "2025-03-06",
+    "summary": "这里收集一下几种 Path motion 的实现方式，和对它们的评价。",
+    "cover": "/blogs/path-motion-methods/88f584f156a64ee8.jpg"
+  },
+  {
+    "slug": "negative-delta",
+    "title": "负数时差",
+    "tags": [
+      "bug",
+      "时间"
+    ],
+    "date": "2025-03-04",
+    "summary": "计算数据距离当前时间有多久，居然出现很多负数的反馈。",
+    "cover": "/blogs/negative-delta/930cc7ed94fb7777.jpg"
+  },
+  {
+    "slug": "seo-summary",
+    "title": "SEO 总结",
+    "tags": [
+      "SEO",
+      "总结",
+      "OG"
+    ],
+    "date": "2025-02-27",
+    "summary": "应对 Google、Twitter、Discord、Telegram ，网站开发中 SEO 应该注意的地方",
+    "cover": "/blogs/seo-summary/c6885851c084aa3f.png"
+  },
+  {
+    "slug": "sdk-fix",
+    "title": "SDK 需求应对策略",
+    "tags": [
+      "笔记"
+    ],
+    "date": "2025-02-25",
+    "summary": "SDK 使用中总有差一点功能、莫名报错的问题，记录我的应对方案。",
+    "cover": "/blogs/sdk-fix/12fdc67bd593abdb.jpg"
+  },
+  {
+    "slug": "pnpm-upgrade",
+    "title": "PNPM 升级",
+    "tags": [
+      "笔记"
+    ],
+    "date": "2025-02-24",
+    "summary": "不同设备有不同升级方式，容易报错",
+    "cover": "/blogs/pnpm-upgrade/d3d0d5fee572546d.jpg"
+  },
+  {
+    "slug": "ink-effect",
+    "title": "水墨效果",
+    "tags": [
+      "组件",
+      "尝试"
+    ],
+    "date": "2023-12-29",
+    "summary": "鼠标移动效果",
+    "cover": "/blogs/ink-effect/e946bc3b7be05fad.jpg"
+  },
+  {
+    "slug": "animal-animation",
+    "title": "模型动画——小恐龙",
+    "tags": [
+      "threejs",
+      "练习"
+    ],
+    "date": "2023-12-28",
+    "summary": "用 three 控制动画",
+    "cover": "/blogs/animal-animation/5da1091186765b51.png"
+  },
+  {
+    "slug": "reshow-sketchfab-watermelon",
+    "title": "重现模型——Blingbling的西瓜",
+    "tags": [
+      "threejs",
+      "尝试"
+    ],
+    "date": "2023-12-27",
+    "summary": "既然 sketchfab 能把渲染做的这么好，那我试下重现模型。",
+    "cover": "/blogs/reshow-sketchfab-watermelon/e6733c50270e96b6.jpg"
+  },
+  {
+    "slug": "water-like-distortion",
+    "title": "文字水波纹",
+    "tags": [
+      "学习",
+      "尝试",
+      "threejs"
+    ],
+    "date": "2023-12-26",
+    "summary": "使用 three 让 Logo 文字具有水波纹效果。",
+    "cover": "/blogs/water-like-distortion/b3d507f04a350d61.png"
+  },
+  {
+    "slug": "dynamic-circle",
+    "title": "一个动态圆",
+    "tags": [
+      "开发",
+      "svg",
+      "动画"
+    ],
+    "date": "2023-12-25",
+    "summary": "变形的圆，波荡的曲线，可交互的按钮。",
+    "cover": "/blogs/dynamic-circle/f35df236cc5a83a61702437581667af73e3b2780e3c4f9a0b7c1008a5c1984ca.png"
+  },
+  {
+    "slug": "review",
+    "title": "8,9月回顾",
+    "tags": [
+      "总结"
+    ],
+    "date": "2023-10-09",
+    "summary": "迷迷糊糊就过了两月，好像又学了些东西，又有些模糊，得理一下。",
+    "cover": "/blogs/review/fb438d79024a4207.jpg"
+  },
+  {
+    "slug": "xmind-rewritten",
+    "title": "Xmind 重写了渲染引擎",
+    "tags": [
+      "xmind",
+      "实现"
+    ],
+    "date": "2023-08-06",
+    "summary": "我最近在写一款类似 xmind 的前端应用。而 Xmind 最近有重大更新，重构了渲染引擎。我突然质疑我自己写这个意义。",
+    "cover": "/blogs/xmind-rewritten/f80498d56ce0bd27.jpg"
+  },
+  {
+    "slug": "canary-version",
+    "title": "Canary 版本管理",
+    "tags": [
+      "canary",
+      "nextjs",
+      "version"
+    ],
+    "date": "2023-07-13",
+    "summary": "开源项目中，需要更为规范的版本管理方案，这里讨论 canary 版本的实际运用。",
+    "cover": "/blogs/canary-version/cc3ac075ef891f80.jpg"
+  },
+  {
+    "slug": "string-operation",
+    "title": "String 相加还是模板字符串",
+    "tags": [
+      "测试",
+      "string"
+    ],
+    "date": "2023-07-11",
+    "summary": "我习惯用模板字符串，但是发现其它开发者习惯用 string 操作符，测下。",
+    "cover": "/blogs/string-operation/a595c767080a7a92.jpg"
+  },
+  {
+    "slug": "startsWith-reg",
+    "title": "用 startsWith 会比用正则更快吗",
+    "tags": [
+      "测试"
+    ],
+    "date": "2023-07-04",
+    "summary": "正常认为，startsWith 处理会更好，事实却有所不同。",
+    "cover": "/blogs/startsWith-reg/72d2e45348d26b91.jpg"
+  },
+  {
+    "slug": "webpack-react",
+    "title": "Webpack 打包开发 React",
+    "tags": [
+      "总结",
+      "webpack",
+      "react"
+    ],
+    "date": "2023-07-03",
+    "summary": "记录一下如何用 Webpack 进行 React 项目的开发，总结 Webpack 对我的影响。",
+    "cover": "/blogs/webpack-react/f5f7beaea4b7ae16.jpg"
+  },
+  {
+    "slug": "accept-encoding",
+    "title": "前端设置不了 Accept-Encoding Header",
+    "tags": [
+      "尝试"
+    ],
+    "date": "2023-06-30",
+    "summary": "网站资源一般采用 gzip 压缩后返回，这样会使文件大大减小。那么平常的 API 接口呢？",
+    "cover": "/blogs/accept-encoding/dae2219a32e22957.jpg"
+  },
+  {
+    "slug": "css-colors",
+    "title": "知识速记 - CSS Colors",
+    "tags": [
+      "笔记"
+    ],
+    "date": "2023-06-29",
+    "summary": "简单记录一下在 MDN 看到的 CSS Blog 文章",
+    "cover": "/blogs/css-colors/e5a78a7492d1850d.png"
+  },
+  {
+    "slug": "ruanyifeng",
+    "title": "阮一峰见证前端历史",
+    "tags": [
+      "阮一峰"
+    ],
+    "date": "2023-06-15",
+    "summary": "阮一峰是我最喜欢的博客作者，但他本来不是一名前端开发者，而是学校教书的教授。然而，他的博客伴随着前端在国内的兴起。",
+    "cover": "/blogs/ruanyifeng/16ca1175afbdcd1b.jpg"
+  },
+  {
+    "slug": "design-patterns-react",
+    "title": "React 中的设计模式",
+    "tags": [
+      "设计模式",
+      "创建blog网站"
+    ],
+    "date": "2023-05-07",
+    "summary": "设计模式在长期的开发过程当中，会慢慢显得更加重要。掌握好这些设计模式，对日后的项目工作有很大帮助。",
+    "cover": "/blogs/design-patterns-react/836ca6119fb23330.jpg"
   }
 ]
